@@ -1,24 +1,19 @@
-HELP.md
-.gradle
-build/
-!gradle/wrapper/gradle-wrapper.jar
+
+.gradle/
+**/build/  # This is a general rule to ignore all 'build' directories
+
 !**/src/main/**/build/
 !**/src/test/**/build/
 
-### STS ###
-.apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
-.sts4-cache
-bin/
-!**/src/main/**/bin/
-!**/src/test/**/bin/
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
 
-### IntelliJ IDEA ###
-.idea
+
+gradle-app.setting
+.gradletasknamecache
+
+
+.idea/
 *.iws
 *.iml
 *.ipr
@@ -26,12 +21,24 @@ out/
 !**/src/main/**/out/
 !**/src/test/**/out/
 
-### NetBeans ###
+
+.project
+.classpath
+.apt_generated    # from local
+.factorypath     # from local
+.settings/       # from local (added / as it's usually a directory)
+.springBeans     # from local
+.sts4-cache      # from local
+bin/             # from local
+!**/src/main/**/bin/ # from local
+!**/src/test/**/bin/ # from local
+
+
 /nbproject/private/
 /nbbuild/
 /dist/
 /nbdist/
 /.nb-gradle/
 
-### VS Code ###
+
 .vscode/
