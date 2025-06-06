@@ -1,4 +1,4 @@
-# Spring Boot Shop & Product Management System
+# Spring Boot Shop (Product Management System)
 
 ## 📖 Overview
 
@@ -73,6 +73,8 @@ From the home page, you can:
 * Click on a shop to view its products.
 * Add a new product to a specific shop.
 * Test the validation by submitting forms with invalid or empty data.
+
+---
 
 ## 📄 License
 
