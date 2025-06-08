@@ -78,6 +78,6 @@ From the home page, you can:
 
 ## 📄 License
 
-* © [2025] [IBM] [Sushant Jasra Kumar] All Rights Reserved.
+* © [2025] [Sushant Jasra Kumar] All Rights Reserved.
 
 ---
