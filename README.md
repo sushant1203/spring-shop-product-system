@@ -4,8 +4,6 @@
 
 This project is a fully functional web application for managing shops and their associated products, built with **Java** and the **Spring Boot framework**. It serves as a strong demonstration of core back-end development principles, including MVC architecture, data handling, and robust server-side validation.
 
-Developed as a university assignment, this project was awarded a **perfect score of 100/100**, reflecting its high-quality implementation, adherence to detailed specifications, and clean, functional design.
-
 ---
 
 ## ✨ Key Features
@@ -76,8 +74,11 @@ From the home page, you can:
 
 ---
 
-## 📄 License
+## 📄 Copyright and Licensing
+Copyright (c) 2025 [IBM] [Sushant Jasra Kumar]
 
-* © [2025] [Sushant Jasra Kumar] All Rights Reserved.
+The code for all projects in this portfolio is licensed under the **[MIT License](https://github.com/sushant1203/sushant1203/blob/main/LICENSE)**.
+
+All non-code assets, including PDF documents, images, and visual designs, are dedicated to the public domain under the **[Creative Commons Zero v1.0 Universal (CC0 1.0)](https://github.com/sushant1203/sushant1203/blob/main/LICENSE2)**.
 
 ---
